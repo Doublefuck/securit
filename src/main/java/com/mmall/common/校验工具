@@ -1,0 +1,4 @@
+参数校验工具--validator
+Json转换工具--JsonMapper
+获取spring上下文--ApplicationContextHelper
+http请求前后监听拦截器 --HttpInterceptor
